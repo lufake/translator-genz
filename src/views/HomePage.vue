@@ -16,7 +16,7 @@
       </ion-item>
       
       <ion-item>
-        <ion-label position="floating"><strong>Quellsprache</strong></ion-label>
+        <ion-label position="floating"><strong>Quellsprache TEST</strong></ion-label>
         <ion-select v-model="sourceLanguage">
           <ion-select-option value="de">German</ion-select-option>
           <ion-select-option value="en">English</ion-select-option>
