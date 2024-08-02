@@ -16,24 +16,24 @@
       </ion-item>
       
       <ion-item>
-        <ion-label position="floating"><strong>Quellsprache TEST</strong></ion-label>
+        <ion-label position="floating"><strong>Eingabesprache</strong></ion-label>
         <ion-select v-model="sourceLanguage">
-          <ion-select-option value="de">German</ion-select-option>
-          <ion-select-option value="en">English</ion-select-option>
-          <ion-select-option value="fr">French</ion-select-option>
-          <ion-select-option value="it">Italian</ion-select-option>
-          <ion-select-option value="es">Spanish</ion-select-option>
+          <ion-select-option value="de">Deutsch</ion-select-option>
+          <ion-select-option value="en">Englisch</ion-select-option>
+          <ion-select-option value="fr">Französisch</ion-select-option>
+          <ion-select-option value="it">Italienisch</ion-select-option>
+          <ion-select-option value="es">Spanisch</ion-select-option>
         </ion-select>
       </ion-item>
 
       <ion-item>
-        <ion-label position="floating"><strong>Zielsprache</strong></ion-label>
+        <ion-label position="floating"><strong>Ausgabesprache</strong></ion-label>
         <ion-select v-model="targetLanguage">
-          <ion-select-option value="de">German</ion-select-option>
-          <ion-select-option value="en">English</ion-select-option>
-          <ion-select-option value="fr">French</ion-select-option>
-          <ion-select-option value="it">Italian</ion-select-option>
-          <ion-select-option value="es">Spanish</ion-select-option>
+          <ion-select-option value="de">Deutsch</ion-select-option>
+          <ion-select-option value="en">Englisch</ion-select-option>
+          <ion-select-option value="fr">Französisch</ion-select-option>
+          <ion-select-option value="it">Italienisch</ion-select-option>
+          <ion-select-option value="es">Spanisch</ion-select-option>
         </ion-select>
       </ion-item>
 
